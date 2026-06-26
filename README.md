@@ -1,3 +1,3 @@
-Name: GILBERT CHIDERA HENRY 
-Reg_no: 2023934016
+Name: Obu bright chikadibia
+Reg_no: 2023934021
 Department: Software Engineering
